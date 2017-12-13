@@ -1,0 +1,27 @@
+{
+  "name": "lab17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.33",
+    "semantic-ui": "^2.2.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwilm/lab17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwilm/lab17/issues"
+  },
+  "homepage": "https://github.com/bwilm/lab17#readme"
+}

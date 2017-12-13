@@ -1,0 +1,38 @@
+#LocationBox{
+    background-image: url(http://i66.tinypic.com/17aiyr.png);
+    background-size: contain ;
+    background-repeat: no-repeat;
+}
+
+
+
+#splashback
+{
+
+height: 300px;
+color: greenyellow;
+background-image:url(http://i67.tinypic.com/x510nk.jpg);
+border-radius: 15px;
+}
+
+#logo{
+    font-size: 150px;
+    font-family: geo, sans-serif;
+   
+   
+  ;
+}
+#logo2{
+    color:  rgba(247, 10, 219, 0.986);
+    font-size: 75px;
+    font-family: geo, sans-serif;
+   
+   
+  ;
+}
+#footer{
+height: 400px;
+background-image:url(http://i66.tinypic.com/oiu8mf.jpg);
+border-radius: 15px;
+
+}
